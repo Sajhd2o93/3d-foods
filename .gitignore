@@ -1,0 +1,12 @@
+# Archives and builds
+*.zip
+
+# Backup folder
+backup_*/
+
+# OS and Editor files
+.DS_Store
+Thumbs.db
+*.bak
+.idea/
+.vscode/

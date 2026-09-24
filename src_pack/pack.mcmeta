@@ -1,0 +1,25 @@
+{
+  "pack": {
+    "description": {
+      "text": "3D Food",
+      "type": "text",
+      "extra": [
+        {
+          "text": " | ",
+          "color": "#5f5f5f",
+          "bold": true
+        },
+        {
+          "text": "Made by White_GK",
+          "color": "#03d3de"
+        }
+      ],
+      "color": "#00b900"
+    },
+    "pack_format": 46,
+    "supported_formats": [
+      46,
+      120
+    ]
+  }
+}
