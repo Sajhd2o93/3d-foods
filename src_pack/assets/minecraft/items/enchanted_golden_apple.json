@@ -16,7 +16,7 @@
     ],
     "fallback": {
       "type": "minecraft:model",
-      "model": "minecraft:item/golden_apple_model",
+      "model": "minecraft:item/enchanted_golden_apple_model",
       "tints": []
     }
   }
