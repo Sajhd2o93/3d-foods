@@ -2,7 +2,8 @@
 	"format_version": "1.21.11",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "item/raw_beef_3d"
+		"1": "item/raw_beef_3d",
+		"particle": "item/raw_beef_3d"
 	},
 	"elements": [
 		{

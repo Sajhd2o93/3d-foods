@@ -3,7 +3,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"1": "item/bowl_3d"
+		"1": "item/bowl_3d",
+		"particle": "item/bowl_3d"
 	},
 	"elements": [
 		{

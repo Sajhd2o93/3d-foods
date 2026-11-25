@@ -1,9 +1,10 @@
 {
 	"format_version": "1.21.11",
 	"credit": "Made with Blockbench",
-	"texture_size": [32, 32],
+	"texture_size": [64, 64],
 	"textures": {
-		"2": "item/watermelon_3d"
+		"2": "item/watermelon_3d",
+		"particle": "item/watermelon_3d"
 	},
 	"elements": [
 		{
